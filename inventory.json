@@ -1,0 +1,20 @@
+[
+  {
+    "id": "inv_yhucxbu",
+    "name": "İmplant Vida",
+    "stock": 12,
+    "unit": "adet"
+  },
+  {
+    "id": "inv_byrnty2",
+    "name": "Anestezik",
+    "stock": 34,
+    "unit": "flakon"
+  },
+  {
+    "id": "inv_kxpf5kp",
+    "name": "Kompozit",
+    "stock": 20,
+    "unit": "şırınga"
+  }
+]
